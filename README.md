@@ -16,7 +16,7 @@ Github : FDL17
 
 ## Introduction
 
-This project provides a reusable sorting algorithm in the form of a dynamic link library (.DLL). The sorting algorithm is implemented in C, making it efficient and versatile. You can easily integrate this library into your C/C++ projects to perform sorting operations on various data sets.
+This project offers a reusable sorting algorithm encapsulated within a dynamic link library (.DLL). The sorting algorithm is implemented in C, ensuring efficiency and versatility. It can seamlessly integrate into your projects, whether in C/C++ or any other programming language, enabling you to perform sorting operations on diverse datasets.
 
 ## Features
 
